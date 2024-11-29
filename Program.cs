@@ -1,10 +1,8 @@
 ﻿﻿using System.Security.Cryptography;
 
 Console.Clear();
-
 Console.WriteLine("Adivinhe o número amiguinho!\n");
-
-Console.Write("Eu estou imaginando um número que está entre 1 e 100.");
+Console.Write(" Eu estou imaginando um número que está entre 1 e 100.");
 Console.WriteLine(" Dúvido você vencer esse desafio!");
 
 int palpite = 0;
